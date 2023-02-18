@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/status-desenvolvimento-brightgreen" />
 </p>
 
+## Descrição do projeto
+
 O Alfood é um projeto, do curso "React: Integrando seu projeto com APIs" da alura, que lista restaurantes e pratos do menu. 
 É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
